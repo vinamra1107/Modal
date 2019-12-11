@@ -1,10 +1,7 @@
 # Modal
 
-<<<<<<< HEAD
-> Creating a Modal using Nuxt.js and Vue.js
-=======
+
 > Creating a Modal
->>>>>>> 1f603d5b6aaf1c43b04782370cd60718f8db3168
 > Features: Click on button to view Modal
             Close Modal by either of 2 buttons inside Modal or by clicking outside the Modal
             Divided in 3 components- Header, Body and Footer
