@@ -1,6 +1,10 @@
 # Modal
 
-> Creating a Model
+> Creating a Modal
+> Features: Click on button to view Modal
+            Close Modal by either of 2 buttons inside Modal or by clicking outside the Modal
+            Divided in 3 components- Header, Body and Footer
+            Transition added
 
 ## Build Setup
 
